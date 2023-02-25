@@ -6,3 +6,4 @@
 3) add 5 homeworks from last lessons(1 hm == 1 commit)
 4) make merge request
 5) dont make pull request!!!
+6)add your pycache to gitignore
